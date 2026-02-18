@@ -1,4 +1,4 @@
-# compensation-analytics-merit-planning
+# Compensation-Analytics-Merit-Planning
 Data-driven compensation analysis including market benchmarking, pay equity review, and merit increase modeling.
 
 📬 About This Project
